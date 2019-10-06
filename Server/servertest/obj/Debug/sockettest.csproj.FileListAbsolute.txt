@@ -1,0 +1,9 @@
+D:\engineer program（course design）\sockettest\sockettest\bin\Debug\sockettest.exe.config
+D:\engineer program（course design）\sockettest\sockettest\obj\Debug\sockettest.csprojResolveAssemblyReference.cache
+D:\engineer program（course design）\sockettest\sockettest\obj\Debug\sockettest.Properties.Resources.resources
+D:\engineer program（course design）\sockettest\sockettest\obj\Debug\sockettest.csproj.GenerateResource.Cache
+D:\engineer program（course design）\sockettest\sockettest\bin\Debug\sockettest.exe
+D:\engineer program（course design）\sockettest\sockettest\bin\Debug\sockettest.pdb
+D:\engineer program（course design）\sockettest\sockettest\obj\Debug\sockettest.exe
+D:\engineer program（course design）\sockettest\sockettest\obj\Debug\sockettest.pdb
+D:\engineer program（course design）\sockettest\sockettest\obj\Debug\sockettest.server.resources
