@@ -1,0 +1,11 @@
+D:\engineer program（course design）\clienttest\clienttest\bin\Debug\clienttest.exe.config
+D:\engineer program（course design）\clienttest\clienttest\obj\Debug\clienttest.Properties.Resources.resources
+D:\engineer program（course design）\clienttest\clienttest\obj\Debug\clienttest.csproj.GenerateResource.Cache
+D:\engineer program（course design）\clienttest\clienttest\bin\Debug\clienttest.exe
+D:\engineer program（course design）\clienttest\clienttest\bin\Debug\clienttest.pdb
+D:\engineer program（course design）\clienttest\clienttest\obj\Debug\clienttest.exe
+D:\engineer program（course design）\clienttest\clienttest\obj\Debug\clienttest.pdb
+D:\engineer program（course design）\clienttest\clienttest\obj\Debug\clienttest.csprojResolveAssemblyReference.cache
+D:\engineer program（course design）\clienttest\clienttest\obj\Debug\clienttest.client.resources
+D:\engineer program（course design）\clienttest\clienttest\obj\Debug\clienttest.chat.resources
+D:\engineer program（course design）\clienttest\clienttest\obj\Debug\clienttest.chats.resources
